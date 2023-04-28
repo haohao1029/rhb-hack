@@ -1,3 +1,8 @@
+![RHB HACK DEMO](img/rhb-hack.gif)
+![RHB HACK DEMO](img/UIUX.png)
+
+<br/>
+<br/>
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
